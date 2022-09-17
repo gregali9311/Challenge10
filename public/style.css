@@ -1,0 +1,35 @@
+.card-header{ 
+    background-color: hsl(217, 71%, 53%);
+}
+
+.card {
+    width: 15%;
+    margin: 2%;
+    display: inline-block;
+}
+
+.card-content{
+    background-color: rgb(243, 239, 239);
+
+
+}
+
+.desc {
+    background-color: white;
+    border-radius: 3px;
+    padding-left: 3px;
+}
+
+.columns{ 
+    background-color: hsl(348, 100%, 61%);
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.headerdesc {
+    font-size: xx-large;
+}
+
